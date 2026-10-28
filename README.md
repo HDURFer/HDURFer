@@ -18,6 +18,15 @@
 
 I am a final-year undergraduate student in Intelligent Hardware and Systems (Electronic Information Engineering) at the College of Excellence, Hangzhou Dianzi University (HDU). I have been admitted to the direct-entry Ph.D. program in Integrated Circuits at HDU and am currently in the pre-enrollment stage. My research interests span RF microsystems, RF integrated circuits, and the intersection of deep learning and electronic design automation.
 
+后续会陆续整理并分享部分课程的学习笔记，以及杭州电子科技大学部分课程的个人评价，供学习交流与选课参考。
+
+I plan to share study notes for selected courses, along with personal reviews of some courses at Hangzhou Dianzi University, for learning and course-selection reference.
+
+## Currently Learning · 正在学习
+
+- **模拟 CMOS 集成电路 · Analog CMOS Integrated Circuits**
+- **射频微电子 · RF Microelectronics**
+
 ## Research Interests · 研究兴趣
 
 | Direction | 方向 |
